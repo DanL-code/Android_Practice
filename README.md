@@ -1,7 +1,7 @@
 # Android_Practice
 
 ## Introduction
-ListApp is an Android application that provides a simple yet functional web browsing experience. It allows users to navigate web pages, manage bookmarks, and maintain a browsing history within a user-friendly interface. The app is built using Java and leverages the WebView component to enable web navigation and browsing.
+This project is an Android application that provides a simple yet functional web browsing experience. It allows users to navigate web pages, manage bookmarks, and maintain a browsing history within a user-friendly interface. The app is built using Java and leverages the WebView component to enable web navigation and browsing.
 
 ## Features
 **Web Browsing**: Users can load and view web pages directly within the app using the built-in WebView component.
